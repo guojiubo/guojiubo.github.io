@@ -2,8 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: single
 ---
+
+# Air Calendar
 
 Air Calendar is a macOS menu bar application that integrates clock, calendar and events. It presents the calendar and your events to you in the fastest and most convenient way.
 
@@ -11,6 +13,8 @@ Air Calendar is committed to providing a visual and interactive experience that 
 
 [View on AppStore](https://apps.apple.com/app/id1544980542)
 
-![preview-1](/Assets/Images/preview-en-1.png)
+![preview-1](/assets/images/preview-en-1.png)
 
-![preview-2](/Assets/Images/preview-en-2.png)
+![preview-2](/assets/images/preview-en-2.png)
+
+Copyright © guojiubo. All rights reserved.

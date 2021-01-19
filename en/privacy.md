@@ -1,10 +1,16 @@
 ---
-layout: default
+layout: single
 title: Privacy
 permalink: /en/privacy
 ---
 
-Air Calendar attaches great importance to the protection of your personal privacy. Sometimes we need certain information to provide you with the services you request. To help you browse content, publish content and interact, we will also collect some of your necessary information. This privacy agreement explains the data collection and usage in these situations.
+# Air Calendar Privacy Policy
+
+2021-01-19
+
+Air Calendar attaches great importance to the protection of your personal privacy. Sometimes we need certain information to provide you with the services you request. To help you browse content, publish content and interact, we will also collect some of your necessary information. This privacy policy explains the data collection and usage in these situations.
+
+We may make adjustments or changes to this privacy policy in due course. Any updates to this privacy policy will be posted on our website by marking the update time. Except for other mandatory provisions of laws, regulations or regulatory provisions, the adjusted or changed content It will take effect 7 days after notification or announcement. If you continue to use any of the services we provide or visit our related websites after the privacy policy is adjusted or changed, we believe that this means that you have fully read, understood and accepted the revised privacy policy and are bound by it.
 
 Air Calendar strictly abides by laws and regulations and follows the following privacy protection principles to provide you with more secure and reliable services:
 
@@ -40,3 +46,5 @@ Please note: In the following situations, the software collects and uses persona
 a) According to the relevant provisions of the law, or at the request of the administrative and judicial organs, disclose to a third party or the administrative or judicial organs;
 
 b) If you violate relevant Chinese or overseas laws, regulations or related rules, you need to disclose to a third party;
+
+Copyright © guojiubo. All rights reserved.
