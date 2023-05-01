@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: default
 title: 服务条款
 permalink: /zh/terms
+lang: zh
 ---
 
 # Top Calendar 服务条款

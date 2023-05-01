@@ -4,8 +4,11 @@
   {%- include head.html -%}
 
   <body>
-
-    {%- include header.html -%}
+    {%- if page.lang != "zh" -%}
+      {%- include header.html -%}
+    {%- else -%}
+      {%- include header-zh.html -%}
+    {%- endif -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">

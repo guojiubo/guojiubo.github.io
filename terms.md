@@ -1,7 +1,8 @@
 ---
-layout: single
-title: Terms
-permalink: /en/terms
+layout: default
+title: Terms of Service
+permalink: /terms
+lang: en
 ---
 
 # Top Calendar Terms of Service
@@ -33,5 +34,3 @@ The Application and its related software and technology are our property and are
 
 ## Notices and Complaints
 If you have any questions, suggestions, or complaints about the Application, please contact us through the contact information provided in the Application.
-
-Copyright © guojiubo. All rights reserved.
