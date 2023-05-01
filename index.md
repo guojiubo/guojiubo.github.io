@@ -6,19 +6,14 @@ layout: home
 lang: en
 ---
 
-# Top Calendar 2.0
-
-
-
-# Air Calendar
-
-Air Calendar is a macOS menu bar application that integrates clock, calendar and events. It presents the calendar and your events to you in the fastest and most convenient way.
-
-Air Calendar is committed to providing a visual and interactive experience that perfectly fits the system. It is as natural, light and indispensable as air.
+# Top Calendar 2.0, the next stop of Air Calendar!
 
 [![View on AppStore](/assets/images/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/app/id1544980542)
 
+![preview-1](/assets/images/Screenshot-EN-1.png)
 
-![preview-1](/assets/images/preview-en-1.png)
+![preview-1](/assets/images/Screenshot-EN-2.png)
 
-![preview-2](/assets/images/preview-en-2.png)
+![preview-1](/assets/images/Screenshot-EN-3.png)
+
+![preview-1](/assets/images/Screenshot-EN-4.png)
