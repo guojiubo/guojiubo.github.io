@@ -4,6 +4,7 @@
 
 layout: home
 lang: zh
+title: ""
 ---
 
 ## 欢迎来到空气日历的下一站：Top Calendar 2.0!
