@@ -14,15 +14,6 @@ Top Calendar is a macOS application developed independently by guojiubo, hereina
 ## Usage Restrictions
 The Application is for personal, non-commercial use only. You may not use the Application for commercial or profit-making purposes without our written consent.
 
-## Features and Pricing
-Top Calendar offers core features for free. Top Calendar Pro provides advanced customization and additional features. The Pro edition can be accessed through monthly subscriptions or lifetime purchases.
-
-### Monthly Subscription
-Choose the monthly subscription plan to access Top Calendar Pro features and pay a recurring monthly fee to maintain access.
-
-### Lifetime Purchase
-Opt for the lifetime purchase option to unlock Top Calendar Pro features permanently with a one-time payment. This option includes access to all future updates. If you decide to upgrade from a monthly subscription to a lifetime purchase, please make sure to cancel your active subscription to avoid future charges.
-
 ## Refunds
 Please follow [the official Apple refund process](https://support.apple.com/en-us/HT204084) for refunds.
 
