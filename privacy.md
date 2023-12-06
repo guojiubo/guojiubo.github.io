@@ -11,7 +11,7 @@ April 28, 2023
 Top Calendar is a macOS application independently developed by guojiubo, hereinafter referred to as "this application" or "we". By using this application, you indicate that you have fully read, understood, and accepted this privacy policy.
 
 ## Data Collection
-The Top Calendar application itself does not collect any of your data. Except for in-app purchases, this application will not initiate any network requests on its own.
+Top Calendar does not collect any of your data and will not initiate any network requests on its own.
 
 ## Your Calendar Events
 The calendar events displayed in this application about you are obtained through [EventKit](https://developer.apple.com/documentation/eventkit) provided by Apple.
